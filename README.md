@@ -44,5 +44,5 @@ This project is an automated system for detecting candlestick patterns and execu
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/Automated-Candlestick-Detection-and-Auto-Trading.git
+git clone https://github.com/mdbaizidtanvir/Automated-Candlestick-Detection-and-Auto-Trading.git
 cd Automated-Candlestick-Detection-and-Auto-Trading
